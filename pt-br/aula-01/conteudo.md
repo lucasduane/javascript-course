@@ -208,7 +208,7 @@ std.question('Digite o valor de X: ', (x) => {
 
     console.log('acumulador ao quadrado:', acumulador);
 
-    // TODO: atribua a acumulador o valor de acumulador dividido por 3 vezez x
+    // TODO: atribua a acumulador o valor de acumulador dividido por 3 vezes x
 
     console.log(`acumulador dividido por 3 x ${x}:`, acumulador);
 
